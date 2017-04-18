@@ -1,0 +1,5 @@
+﻿  test1.cpp
+c:\users\paulc2\desktop\test1\test1.cpp(85): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\paulc2\desktop\test1\test1.cpp(85): note: placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+  Test1.vcxproj -> C:\Users\paulc2\Desktop\Test1\Debug\Test1.exe
+  Test1.vcxproj -> C:\Users\paulc2\Desktop\Test1\Debug\Test1.pdb (Full PDB)
